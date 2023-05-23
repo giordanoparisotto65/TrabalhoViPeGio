@@ -13,15 +13,23 @@
 **3. Que contenha banco de dados para estoque dos alimentos, tabela de produtos e tabela com o cadastro dos funcionários**
 
 
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+..
+.
+..
+.
+.
+.
+..
+.
+.
+.
+..
+.
+.
 ## Quando baixar o projeto, o que fazer? 
 **1. Instalar as dependências do projeto**  
 `composer install`  
