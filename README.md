@@ -6,30 +6,16 @@
 
 ## Quem são dos desenvolvedores?
 **Giordano Ritter, Pedro Prola e Vitor Luiz - módulo 8 TI IFSC Chapecó **
-
+----
 ## Qual a proposta da equipe?
 **1. Que o sistema possua uma página de início, convitando o cliente a conhecer a empresa**
+----
+
 **2. Que contenha página de Login, em que o administrador poderá editar o banco de dados**
+----
 **3. Que contenha banco de dados para estoque dos alimentos, tabela de produtos e tabela com o cadastro dos funcionários**
 
-
-.
-.
-.
-.
-..
-.
-..
-.
-.
-.
-..
-.
-.
-.
-..
-.
-.
+----
 ## Quando baixar o projeto, o que fazer? 
 **1. Instalar as dependências do projeto**  
 `composer install`  
